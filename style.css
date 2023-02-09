@@ -1,0 +1,32 @@
+* {
+    /* universal selector*/
+    margin: 0;
+    padding: 0;
+}
+
+.para {
+    /*classs selector */
+    color: blueviolet;
+}
+
+.red {
+    font-size: xx-large;
+}
+
+#prashant {
+    /*id selector*/
+    background-color: aqua;
+    color: brown;
+}
+
+ul,
+h1,
+.red,
+#prashant {
+    /*grouping selector*/
+    color: magenta;
+}
+
+p b {
+    color: red;
+}

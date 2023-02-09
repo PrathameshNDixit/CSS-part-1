@@ -1,0 +1,49 @@
+.harshus {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin: 0px auto 0px auto;
+    margin-block: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}

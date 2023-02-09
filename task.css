@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.top-banner {
+    background-color: aqua;
+    height: 10%;
+}
+
+.bottom-banner {
+    background-color: aqua;
+    height: 10%;
+}
+
+.left-col {
+    display: inline-block;
+    width: 69%;
+    height: 80%;
+    box-shadow: 0px 2px 2px grey;
+}
+
+.content {
+    display: inline-block;
+    width: 30%;
+    height: 80%;
+    box-shadow: 0px 2px 2px grey;
+}
