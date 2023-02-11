@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+
+.top {
+    height: 50px;
+    background-color: aqua;
+    display: block;
+}
+
+.bottom {
+    height: 50px;
+    background-color: aqua;
+    display: block;
+}
+
+.left {
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+    background-color: orange;
+}
+
+.right {
+    display: inline-block;
+    width: 69%;
+    height: 300px;
+}
