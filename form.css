@@ -1,0 +1,48 @@
+.container {
+    width: 400px;
+    margin-inline: auto;
+    background-color: black;
+}
+
+.content {
+    margin-inline: auto;
+    width: 100%;
+}
+
+.left {
+    text-align: right;
+}
+
+.right {
+    text-align: left;
+}
+
+table {
+    margin-inline: auto;
+    color: white;
+}
+
+.footer {
+    background-color: orange;
+    text-align: right;
+    padding: 10px;
+}
+
+.top {
+    background-color: orange;
+    text-align: left;
+    padding: 10px;
+}
+
+.sign {
+    background-color: green;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.cancel {
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+}
